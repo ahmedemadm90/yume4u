@@ -8,11 +8,16 @@
 E-commerce platform with a focus on user experience and scalable product management.
 
 ## 🚀 Core Features
-- **High Performance**: Optimized backend logic for enterprise-scale operations.
-- **Secure Architecture**: Built with modern security standards and best practices.
-- **Scalable Design**: Modular structure allowing for easy feature expansion.
+- **Enterprise Architecture**: Designed for high availability and scalability.
+- **Robust Security**: Implements modern authentication and data protection standards.
+- **Modern UI/UX**: Clean and intuitive interface for enhanced user productivity.
 
-## 🛠 Installation
+## 🛠 Tech Stack
+- **Framework**: Laravel / PHP
+- **Database**: MySQL / PostgreSQL
+- **Frontend**: Blade / Vue.js / TailwindCSS
+
+## 📦 Installation
 ```bash
 git clone https://github.com/ahmedemadm90/yume4u.git
 cd yume4u
